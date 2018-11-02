@@ -1,0 +1,11 @@
+.ninja-table tr:nth-child(even){
+    background-color: #f2f2f2;
+}
+
+.ninja-table {
+    width: 50%;
+}
+
+.ninja-table tr .age, .belt {
+    text-align: right;
+}
